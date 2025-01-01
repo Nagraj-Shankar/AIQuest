@@ -1,3 +1,6 @@
+"engines": {
+    "node": "22.x"
+  },
 {
   "name": "flash-card-quiz",
   "private": true,
